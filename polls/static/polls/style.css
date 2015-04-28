@@ -1,0 +1,10 @@
+li a {
+    color: pink;
+}
+
+body {
+    background: white url("Cleveland-Cavaliers-Logo-Background-Wallpaper.jpg");
+    background-size: 1500px 800px;
+    background-position:  center;
+    background-repeat: no-repeat;
+}
